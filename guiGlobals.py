@@ -1,0 +1,10 @@
+WIDTH = 1280
+HEIGHT = 720
+CLIENT_TITLE = 'Client'
+ENTER_LOC = 'Please insert the location of your image'
+BACKGROUND_COLOR = '#49A'
+BACKGROUND_COLOR2 = '#d99058'
+WELCOME = 'Welcome!\n Choose your action.'
+PORT = 1234
+IP = '127.0.0.1'
+PROGRESS_BAR_LENGTH = 300
